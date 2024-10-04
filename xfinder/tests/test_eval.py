@@ -1,6 +1,6 @@
 import unittest
 
-from xfinder.eval import main as evaluate
+from xFinder.xfinder.eval import main as evaluate
 
 
 class TestxFinderEval(unittest.TestCase):
